@@ -1,0 +1,26 @@
+NEO GAIA STRIKER ―宇宙迎撃十二宙域― で使っている素材
+
+■ 曲の楽器の音（assets/music/*.mp3）
+GeneralUser GS v2.0.3（S. Christian Collins）
+ライセンス: 自分の音楽制作に制限なく使用可（私用・商用とも）。ソフトウェアでの使用・改変も可（同梱の LICENSE v2.0 より）。
+取得元: http://www.schristiancollins.com
+加工: エレキギター（クリーン・ミュート）をプログラムのアンプ・キャビネットの響きに通して歪ませ、ベース・ドラム・シンセ（分散和音・パッド・合唱）と合わせて曲として書き出した（SoundFont そのものは配布していない）。
+
+■ 予備の楽器の音（snd/*.bin。曲が読み込めなかった時だけ使う）
+FluidR3_GM SoundFont（Frank Wen ほか）
+ライセンス: Creative Commons Attribution 3.0（CC BY 3.0） https://creativecommons.org/licenses/by/3.0/
+取得元: https://github.com/gleitz/midi-js-soundfonts （リポジトリのコードは MIT License, Copyright (C) 2012 Benjamin Gleitzman）
+使った楽器: Distortion Guitar / Overdriven Guitar / Electric Bass (pick) / Synth Strings 1 / Tubular Bells（必要な音域だけを抜き出してまとめた。音そのものは変更していない）
+Versilian Community Sample Library（VCSL, Sam Gossner ほか）
+ライセンス: CC0 1.0 Universal（パブリックドメイン） https://github.com/sgossner/VCSL
+
+■ 曲（18曲）
+すべてこのゲームのために新しく作曲したもの（旋律・リフ・ドラムを楽譜として手で書いた）。既存の曲・録音は使っていない。
+各面：1 BEYOND THE BLUE ARC／2 ORBITAL GRAVEYARD／3 SHADOW OF THE FAR SIDE／4 METEOR STORM／5 IRON ARMADA／6 ELECTRIC NEBULA／7 EVENT HORIZON／8 WORMHOLE RUN／9 IRON FOUNDRY／10 HALO BASTION／11 MECHANOID CAPITAL／12 HEART OF THE MACHINE
+ほか：NEO GAIA STRIKER（タイトル）／MECHANOID ARMADA（ボス）／OVERMIND（最終ボス）／ZONE SECURED（面クリア）／LOST IN THE VOID（ゲームオーバー）／DAWN OVER THE BLUE ARC（エンディング）
+タイトルと最終ボスの曲には、前作『GAIA STRIKER ―地球奪還十二戦線―』のタイトル曲の主旋律（同じ作り手のもの）を変奏して入れている。
+
+■ プログラム・絵・効果音
+すべてこのゲームのために作ったもの（絵は Blender で立体を組んで描画、星・星雲・地形はプログラムで描画）。外部の画像・フォントは使っていない。
+8面の「時の残像」と中ボスには、前作『GAIA STRIKER』の敵とボス（同じ作り手のもの）の絵を使っている。
+『スーパースターソルジャー』（ハドソン、1990年）の遊びの仕組みを参考にした完全オリジナル作品で、名前・キャラクター・曲・絵は使っていない。
